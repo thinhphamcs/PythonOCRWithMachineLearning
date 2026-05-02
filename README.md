@@ -1,5 +1,5 @@
-# Pytesseract
-A professional, learning-focused repository for Optical Character Recognition (OCR) using Pytesseract and Python.
+# Optical Character Recognition (OCR)
+A professional, learning-focused repository for OCR using Pytesseract, Machine Learning, and Python.
 
 This project demonstrates real-world software architecture patterns with clean separation of concerns, modular design, and a production-ready Streamlit interface. It supports **multiple fine-tuned models** for different document types (invoices, healthcare forms, bank statements, etc.).
 
