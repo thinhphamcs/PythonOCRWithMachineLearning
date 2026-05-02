@@ -23,6 +23,7 @@ model = YOLO(MODEL_PATH)
 
 def parse_transaction_line(line):
     """Flexible parser for Transactions and Daily Ledgers."""
+    line = line.replace("=", " ")
     clean_line = line.strip().strip("-| ").strip()
     if not clean_line:
         return None
