@@ -5,7 +5,7 @@
 ### 1. Clone the repository
 ```bash
 git clone <repo-url>
-cd PytesseractWithPython
+cd PythonOCRWithMachineLearning
 ```
 
 ### 2. Create virtual environment
